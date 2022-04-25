@@ -1,2 +1,4 @@
-# Taller4_Ejercicios_POO_y_modelamiento_de_Objetos
-Se realizaron 6 ejercicios con el paradicma de la programacion orientada a objetos. 
+# Ejercicios-de-POO-y-modelamiento-de-objetos
+Ejercicios hechos utilizando POO
+Cada ejercicio se encuentra en su propia carpeta, para poder correar cada ejercicio debera ingresar a la carpeta correcpondiente y 
+correr la clase principal correspondiente a cada ejercicio
